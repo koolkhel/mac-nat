@@ -1,0 +1,5 @@
+%%
+# machine entries have the following format:
+#
+# hostname      hwtype  hwaddr              ipaddr          bootfile
+raspberrypi3         1       b8:27:eb:b6:17:92   192.168.2.2
